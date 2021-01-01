@@ -18,4 +18,8 @@ public class MainActivity extends AppCompatActivity {
     public void startActivity(View v){
         startActivity(new Intent(MainActivity.this,SecondActivity.class));
     }
+
+    void msg(){
+
+    }
 }
