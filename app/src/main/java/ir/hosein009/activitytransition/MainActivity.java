@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         getWindow().getDecorView().setBackgroundColor(Color.BLUE);
+        getActionBar().setTitle("Hosein maleki");
     }
 
     public void startActivity(View v){
