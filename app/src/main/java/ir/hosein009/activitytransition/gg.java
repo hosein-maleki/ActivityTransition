@@ -5,4 +5,5 @@ package ir.hosein009.activitytransition;
  */
 class gg {
   // comment conflic from remote
+    //comment from hosein maleki
 }
