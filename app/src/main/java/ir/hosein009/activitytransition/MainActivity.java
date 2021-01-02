@@ -29,4 +29,9 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+    //updated by hosein maleki on 1/1/2021
+    public void example(){
+
+    }
+
 }
