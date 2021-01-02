@@ -33,5 +33,9 @@ public class MainActivity extends AppCompatActivity {
     public void example2(){
 
     }
+    
+    //update by remote
+    public void example3(){
+    }
 
 }
