@@ -44,7 +44,6 @@ public class MainActivity extends AppCompatActivity {
 
 
     //update by hosein maleki2
-
     public void example4(){
 
     }
